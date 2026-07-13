@@ -1,6 +1,6 @@
 # Context-Dependency of Nanotechnology in Sustainable Agriculture
 
-[![DOI](https://zenodo.org/badge/DOI/TO_BE_ASSIGNED.svg)](https://doi.org/10.5281/zenodo.21338243)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21338243.svg)](https://doi.org/10.5281/zenodo.21338243)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Code and data to reproduce the meta-analysis and machine-learning results reported in:
