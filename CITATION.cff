@@ -10,7 +10,7 @@ license: MIT
 version: 1.0.0
 date-released: 2026-06-28
 url: "https://github.com/YOUR_USERNAME/nano-agriculture-meta"
-doi: "TO_BE_ASSIGNED_BY_ZENODO"
+doi: "10.5281/zenodo.21338243"
 preferred-citation:
   type: article
   title: "The Context-Dependency of Nanotechnology in Sustainable Agriculture"
