@@ -1,0 +1,757 @@
+title,number,year,auther,experiment,NPs_type,Method,Crop,  NPs_size,Size_class,Concentration,Concentration_class,Performance_class,Performance,n1,mean1,sd1,n2,mean2,sd2,lnRR,vi
+Nanobiochar and Copper Oxide Nanoparticles Mixture Synergistically Increases Soil Nutrient Availability and Improves Wheat Production,39,2023,Rashid,Field,Cu,Foliar,Wheat,20,ClassA,100,ClassD,grains yield,Yield,3,2.153,0.1965,3,2.476,0.2535,0.139782136,0.0062707
+Nanobiochar and Copper Oxide Nanoparticles Mixture Synergistically Increases Soil Nutrient Availability and Improves Wheat Production,39,2023,Rashid,Field,Cu,Foliar,Wheat,20,ClassA,100,ClassD,hundreds grams,Yield,3,4.4,0.692820323,3,4.5,0.346410162,0.022472856,0.010239771
+Nanobiochar and Copper Oxide Nanoparticles Mixture Synergistically Increases Soil Nutrient Availability and Improves Wheat Production,39,2023,Rashid,Field,Cu,Foliar,Wheat,20,ClassA,100,ClassD,plant height,Growth,3,57.6,3.117691454,3,60.7,2.944486373,0.05242113,0.001760932
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,10,ClassA,grains yield,Yield,3,1.781,0.052,3,3.161,0.034641016,0.573713429,0.000324189
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,20,ClassB,grains yield,Yield,3,1.781,0.052,3,3.967,0.069282032,0.800835137,0.000385827
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,30,ClassB,grains yield,Yield,3,1.781,0.052,3,4.046,0.121243557,0.820553734,0.000583482
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,40,ClassB,grains yield,Yield,3,1.781,0.052,3,2.717,0.051961524,0.422353326,0.000406073
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,10,ClassA,hundreds grams,Yield,3,104.9,1.732,3,81.67,1.1605,-0.250320778,0.000158175
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,20,ClassB,hundreds grams,Yield,3,104.9,1.732,3,93,2.650037736,-0.120408022,0.000361526
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,30,ClassB,hundreds grams,Yield,3,104.9,1.732,3,130.67,2.892524849,0.219667546,0.000254206
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,40,ClassB,hundreds grams,Yield,3,104.9,1.732,3,85.33,1.524204711,-0.206481423,0.000197227
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,10,ClassA,chl A,Photosynthetic Pigment,3,8.262597587,0.430246829,3,13.33995742,0.206518478,0.479024833,0.000983707
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,20,ClassB,chl A,Photosynthetic Pigment,3,8.262597587,0.430246829,3,14.51242016,0.499086322,0.56326583,0.001298048
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,30,ClassB,chl A,Photosynthetic Pigment,3,8.262597587,0.430246829,3,12.30660043,0.223728351,0.398396723,0.001013983
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,40,ClassB,chl A,Photosynthetic Pigment,3,8.262597587,0.430246829,3,10.64726757,0.361407337,0.253564277,0.001287875
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,10,ClassA,chl B,Photosynthetic Pigment,3,4.552579365,0.36,3,6.55530754,0.225527449,0.364581067,0.002478881
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,20,ClassB,chl B,Photosynthetic Pigment,3,4.552579365,0.36,3,6.90562996,0.510121611,0.416643049,0.003903286
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,30,ClassB,chl B,Photosynthetic Pigment,3,4.552579365,0.36,3,4.60218254,0.220157748,0.01083669,0.002847155
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,40,ClassB,chl B,Photosynthetic Pigment,3,4.552579365,0.36,3,4.233258929,0.391988185,-0.072721837,0.004942425
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,10,ClassA,root length,Growth,3,16.05,1.9919,3,21.2,1.004589468,0.278292332,0.00588258
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,20,ClassB,root length,Growth,3,16.05,1.9919,3,23,1.004589468,0.359785366,0.00577001
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,30,ClassB,root length,Growth,3,16.05,1.9919,3,24.67,2.078460969,0.429879081,0.007500145
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,40,ClassB,root length,Growth,3,16.05,1.9919,3,24,1.004589468,0.402344981,0.005718121
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,10,ClassA,shoot length,Growth,3,40.67,0.572,3,41.67,2.078460969,0.024290726,0.000895243
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,20,ClassB,shoot length,Growth,3,40.67,0.572,3,46,1.732050808,0.123150677,0.000538526
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,30,ClassB,shoot length,Growth,3,40.67,0.572,3,44,1.472243186,0.078698914,0.000439128
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,40,ClassB,shoot length,Growth,3,40.67,0.572,3,43.67,0.571576766,0.071170648,0.000123039
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,10,ClassA,root fresh weight,Biomass,3,1.45,0.087,3,3.47,0.225166605,0.872591038,0.00260355
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,20,ClassB,root fresh weight,Biomass,3,1.45,0.087,3,2.74,0.121243557,0.636394364,0.001852672
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,30,ClassB,root fresh weight,Biomass,3,1.45,0.087,3,2.61,0.225166605,0.587786665,0.00368088
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,40,ClassB,root fresh weight,Biomass,3,1.45,0.087,3,2.2,0.311769145,0.416893804,0.007894215
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,10,ClassA,root dry weight,Biomass,3,0.85,0.035,3,2.97,0.173205081,1.251080882,0.001698838
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,20,ClassB,root dry weight,Biomass,3,0.85,0.035,3,1.84,0.069282032,0.772284501,0.001037757
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,30,ClassB,root dry weight,Biomass,3,0.85,0.035,3,1.43,0.155884573,0.520193374,0.004526241
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,40,ClassB,root dry weight,Biomass,3,0.85,0.035,3,1.27,0.103923048,0.40153583,0.002797172
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,10,ClassA,shoot fresh weight,Biomass,3,18.17,0.693,3,31.52,5.438639536,0.550850383,0.010408884
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,20,ClassB,shoot fresh weight,Biomass,3,18.17,0.693,3,32.79,2.217025034,0.590351708,0.002008713
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,30,ClassB,shoot fresh weight,Biomass,3,18.17,0.693,3,27.38,3.533383647,0.410040937,0.006036165
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,40,ClassB,shoot fresh weight,Biomass,3,18.17,0.693,3,24.73,0.866025404,0.308245199,0.000893663
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,10,ClassA,shoot dry weight,Biomass,3,6.99,0.13856,3,11.45,0.311769145,0.493509174,0.000378113
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,20,ClassB,shoot dry weight,Biomass,3,6.99,0.13856,3,10.25,0.173205081,0.382797149,0.00022616
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,30,ClassB,shoot dry weight,Biomass,3,6.99,0.13856,3,9.14,1.732050808,0.268179829,0.012101349
+"Potential Impacts of Carbon Tube and Silicon Oxide Nanoparticles on Growth, Yield and Antioxidant System of Soybean Plant",40,2020,Abdallah,Field,Si,Foliar,Soybean,50,ClassB,30,ClassB,shoot dry weight,Biomass,3,6.99,0.13856,3,9.06,0.433012702,0.259388564,0.000892397
+"Effect of zinc and iron oxide nanoparticles on plant physiology, seed quality and microbial community structure in a rice-soil-microbial ecosystem",41,2022,Afzal,Field,Zn,Foliar,Rice,36,ClassB,25,ClassB,hundreds grams,Yield,3,3.67,0.259807621,3,4.2,0.190525589,0.134892863,0.002356456
+"Effect of zinc and iron oxide nanoparticles on plant physiology, seed quality and microbial community structure in a rice-soil-microbial ecosystem",41,2022,Afzal,Field,Zn,Foliar,Rice,36,ClassB,100,ClassD,hundreds grams,Yield,3,3.67,0.259807621,3,3.54,0.155884573,-0.036064935,0.002316881
+"Effect of zinc and iron oxide nanoparticles on plant physiology, seed quality and microbial community structure in a rice-soil-microbial ecosystem",41,2022,Afzal,Field,Zn,Foliar,Rice,36,ClassB,25,ClassB,plant height,Growth,3,31.43,0.311769145,3,36.69,0.259807621,0.154741388,4.95E-05
+"Effect of zinc and iron oxide nanoparticles on plant physiology, seed quality and microbial community structure in a rice-soil-microbial ecosystem",41,2022,Afzal,Field,Zn,Foliar,Rice,36,ClassB,100,ClassD,plant height,Growth,3,31.43,0.311769145,3,32.4,0.294448637,0.030395572,6.03E-05
+"Effect of zinc and iron oxide nanoparticles on plant physiology, seed quality and microbial community structure in a rice-soil-microbial ecosystem",41,2022,Afzal,Field,Zn,Foliar,Rice,36,ClassB,25,ClassB,chlorophyll,Photosynthetic Pigment,3,11.51,0.623538291,3,11.79,0.571576766,0.024035492,0.00176169
+"Effect of zinc and iron oxide nanoparticles on plant physiology, seed quality and microbial community structure in a rice-soil-microbial ecosystem",41,2022,Afzal,Field,Zn,Foliar,Rice,36,ClassB,100,ClassD,chlorophyll,Photosynthetic Pigment,3,11.51,0.623538291,3,32.4,0.294448637,1.0349422,0.00100579
+"Effect of zinc and iron oxide nanoparticles on plant physiology, seed quality and microbial community structure in a rice-soil-microbial ecosystem",41,2022,Afzal,Field,Fe,Foliar,Rice,36,ClassB,25,ClassB,hundreds grams,Yield,3,3.67,0.259807621,3,4.12,0.069282032,0.115661501,0.001764775
+"Effect of zinc and iron oxide nanoparticles on plant physiology, seed quality and microbial community structure in a rice-soil-microbial ecosystem",41,2022,Afzal,Field,Fe,Foliar,Rice,36,ClassB,100,ClassD,hundreds grams,Yield,3,3.67,0.259807621,3,3.55,0.311769145,-0.033244059,0.004241433
+"Effect of zinc and iron oxide nanoparticles on plant physiology, seed quality and microbial community structure in a rice-soil-microbial ecosystem",41,2022,Afzal,Field,Fe,Foliar,Rice,36,ClassB,25,ClassB,plant height,Growth,3,31.43,0.311769145,3,37.5,0.36373067,0.176578082,6.42E-05
+"Effect of zinc and iron oxide nanoparticles on plant physiology, seed quality and microbial community structure in a rice-soil-microbial ecosystem",41,2022,Afzal,Field,Fe,Foliar,Rice,36,ClassB,100,ClassD,plant height,Growth,3,31.43,0.311769145,3,32.5,0.259807621,0.033477239,5.41E-05
+"Effect of zinc and iron oxide nanoparticles on plant physiology, seed quality and microbial community structure in a rice-soil-microbial ecosystem",41,2022,Afzal,Field,Fe,Foliar,Rice,36,ClassB,25,ClassB,chlorophyll,Photosynthetic Pigment,3,11.51,0.623538291,3,11.7,0.606217783,0.016372619,0.001873139
+"Effect of zinc and iron oxide nanoparticles on plant physiology, seed quality and microbial community structure in a rice-soil-microbial ecosystem",41,2022,Afzal,Field,Fe,Foliar,Rice,36,ClassB,100,ClassD,chlorophyll,Photosynthetic Pigment,3,11.51,0.623538291,3,8.11,0.34213,-0.350118355,0.001571485
+Seaweed-Based Biogenic ZnO Nanoparticles for Improving Agro-morphological Characteristics of Rice,42,2020,Itroutwar,Field,Zn,Foliar,Rice,15,ClassA,5,ClassA,thousands grams,Yield,4,16.5,0.14,4,16.7,0.187,0.012048339,4.93E-05
+Seaweed-Based Biogenic ZnO Nanoparticles for Improving Agro-morphological Characteristics of Rice,42,2020,Itroutwar,Field,Zn,Foliar,Rice,15,ClassA,10,ClassA,thousands grams,Yield,4,16.5,0.14,4,16.7,0.223,0.012048339,6.26E-05
+Seaweed-Based Biogenic ZnO Nanoparticles for Improving Agro-morphological Characteristics of Rice,42,2020,Itroutwar,Field,Zn,Foliar,Rice,15,ClassA,25,ClassB,thousands grams,Yield,4,16.5,0.14,4,16.6,0.2133,0.006042314,5.93E-05
+Seaweed-Based Biogenic ZnO Nanoparticles for Improving Agro-morphological Characteristics of Rice,42,2020,Itroutwar,Field,Zn,Foliar,Rice,15,ClassA,50,ClassC,thousands grams,Yield,4,16.5,0.14,4,16.7,0.1134,0.012048339,2.95E-05
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Foliar,Wheat,30,ClassB,10,ClassA,grain yield/plant,Yield,3,2.12,0.415692194,3,2.14,0.467653718,0.00938974,0.02873437
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Foliar,Wheat,30,ClassB,20,ClassB,grain yield/plant,Yield,3,2.12,0.415692194,3,2.51,0.53693575,0.168866664,0.028069675
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Foliar,Wheat,30,ClassB,50,ClassC,grain yield/plant,Yield,3,2.12,0.415692194,3,2.53,0.606217783,0.176803214,0.031953882
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Foliar,Wheat,30,ClassB,100,ClassD,grain yield/plant,Yield,3,2.12,0.415692194,3,2.3,0.675499815,0.081493034,0.041568312
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Foliar,Wheat,30,ClassB,10,ClassA,plant height,Growth,3,42.33,2.217025034,3,54.33,2.857883832,0.249580506,0.001836708
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Foliar,Wheat,30,ClassB,20,ClassB,plant height,Growth,3,42.33,2.217025034,3,62.33,3.706588728,0.386946796,0.002093154
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Foliar,Wheat,30,ClassB,50,ClassC,plant height,Growth,3,42.33,2.217025034,3,65.5,4.243524479,0.436554088,0.002313476
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Foliar,Wheat,30,ClassB,100,ClassD,plant height,Growth,3,42.33,2.217025034,3,52.33,3.533383647,0.212073766,0.002434077
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Seed,Wheat,30,ClassB,10,ClassA,grain yield/plant,Yield,3,2.17,0.311769145,3,2.47,0.415692194,0.129490983,0.016321818
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Seed,Wheat,30,ClassB,20,ClassB,grain yield/plant,Yield,3,2.17,0.311769145,3,2.66,0.502294734,0.203598955,0.018766506
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Seed,Wheat,30,ClassB,50,ClassC,grain yield/plant,Yield,3,2.17,0.311769145,3,3.09,0.588897275,0.353443923,0.018987709
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Seed,Wheat,30,ClassB,100,ClassD,grain yield/plant,Yield,3,2.17,0.311769145,3,2.44,0.727461339,0.117270872,0.03650972
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Seed,Wheat,30,ClassB,10,ClassA,plant height,Growth,3,50.83,2.113101985,3,54.5,2.476832655,0.06971397,0.001264536
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Seed,Wheat,30,ClassB,20,ClassB,plant height,Growth,3,50.83,2.113101985,3,60.67,3.568024664,0.17696261,0.001728962
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Seed,Wheat,30,ClassB,50,ClassC,plant height,Growth,3,50.83,2.113101985,3,61.5,3.481422123,0.190550443,0.001644249
+"Characterization of synthesized zinc oxide nanoparticles and their effect on growth, productivity and zinc use efficiency of wheat and Field pea in the Indian Himalayan foothills",43,2023,Verma,Pot,Zn,Seed,Wheat,30,ClassB,100,ClassD,plant height,Growth,3,50.83,2.113101985,3,45,2.546114687,-0.121824242,0.001643187
+Synthesis and application of optimized ZnO nanoparticles for improving yield and Zn content of rice  grain,44,2023,"Akmal, M",Pot,Zn,Foliar,Rice,20,ClassA,20,ClassB,thousands grams,Yield,4,22.831858,0.353982301,4,26.28318584,0.17699115,0.140772572,7.14E-05
+Synthesis and application of optimized ZnO nanoparticles for improving yield and Zn content of rice  grain,44,2023,"Akmal, M",Pot,Zn,Soil,Rice,20,ClassA,4,ClassA,thousands grams,Yield,4,22.831858,0.353982301,4,26.50442478,0.530973451,0.149154851,0.000160427
+Synthesis and application of optimized ZnO nanoparticles for improving yield and Zn content of rice  grain,44,2023,"Akmal, M",Pot,Zn,Foliar,Rice,20,ClassA,20,ClassB,grain yield/plant,Yield,4,34.12294,1.28600823,4,39.21339163,1.071673525,0.139048426,0.000541809
+Synthesis and application of optimized ZnO nanoparticles for improving yield and Zn content of rice  grain,44,2023,"Akmal, M",Pot,Zn,Soil,Rice,20,ClassA,4,ClassA,grain yield/plant,Yield,4,34.12294,1.28600823,4,37.23079561,2.143347051,0.087166372,0.00118364
+Synthesis and application of optimized ZnO nanoparticles for improving yield and Zn content of rice  grain,44,2023,"Akmal, M",Pot,Zn,Foliar,Rice,20,ClassA,20,ClassB,root dry weight,Biomass,4,21.62162162,2.027027027,4,34.66216216,2.162162162,0.471954849,0.003170025
+Synthesis and application of optimized ZnO nanoparticles for improving yield and Zn content of rice  grain,44,2023,"Akmal, M",Pot,Zn,Soil,Rice,20,ClassA,4,ClassA,root dry weight,Biomass,4,21.62162162,2.027027027,4,29.39189189,3.783783784,0.307025035,0.006340481
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,5,ClassA,thousands grams,Yield,3,23.31986961,0.715960155,3,24.14658919,0.357980078,0.034837366,0.000387462
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,10,ClassA,thousands grams,Yield,3,23.31986961,0.715960155,3,24.58947468,0.562540122,0.053012723,0.000488655
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,15,ClassA,thousands grams,Yield,3,23.31986961,0.715960155,3,23.7922808,0.4602601,0.020055422,0.000438941
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,25,ClassB,thousands grams,Yield,3,23.31986961,0.715960155,3,25.50477135,0.664820144,0.089559776,0.000540686
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,50,ClassC,thousands grams,Yield,3,23.31986961,0.715960155,3,24.82568027,0.357980078,0.062572842,0.000383508
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,5,ClassA,grain yield/plant,Yield,3,30.89574156,1.322564493,3,31.86490455,1.119093033,0.030886872,0.001021959
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,10,ClassA,grain yield/plant,Yield,3,30.89574156,1.322564493,3,32.92217327,1.017357303,0.06352803,0.000929132
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,15,ClassA,grain yield/plant,Yield,3,30.89574156,1.322564493,3,33.42143907,0.915621572,0.078579222,0.000861007
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,25,ClassB,grain yield/plant,Yield,3,30.89574156,1.322564493,3,35.0660793,1.169960898,0.126615901,0.000981885
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,50,ClassC,grain yield/plant,Yield,3,30.89574156,1.322564493,3,34.62555067,1.068225168,0.113973507,0.00092808
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,5,ClassA,plant height,Growth,3,65.44642857,2.319710903,3,69.28571429,2.010416116,0.057006818,0.000699418
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,10,ClassA,plant height,Growth,3,65.44642857,2.319710903,3,71.60714286,2.474358297,0.089962906,0.000816777
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,15,ClassA,plant height,Growth,3,65.44642857,2.319710903,3,73.125,2.783653084,0.110938382,0.000901802
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,25,ClassB,plant height,Growth,3,65.44642857,2.319710903,3,75.98214286,2.474358297,0.149266427,0.000772262
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,50,ClassC,plant height,Growth,3,65.44642857,2.319710903,3,73.75,1.855768722,0.119449072,0.000629827
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,5,ClassA,shoot fresh weight,Biomass,3,19,1.327905619,3,20.46666667,1.039230485,0.074358567,0.002487619
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,10,ClassA,shoot fresh weight,Biomass,3,19,1.327905619,3,21.5,0.981495458,0.123613956,0.002322863
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,15,ClassA,shoot fresh weight,Biomass,3,19,1.327905619,3,21,1.212435565,0.100083459,0.002739304
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,25,ClassB,shoot fresh weight,Biomass,3,19,1.327905619,3,23.93333333,1.154700538,0.230833208,0.002404103
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,50,ClassC,shoot fresh weight,Biomass,3,19,1.327905619,3,22.53333333,1.039230485,0.170556715,0.002337202
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,5,ClassA,shoot dry weight,Biomass,3,4.259493671,0.274058672,3,4.291139241,0.295983366,0.007401958,0.002965779
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,10,ClassA,shoot dry weight,Biomass,3,4.259493671,0.274058672,3,4.613924051,0.285021019,0.079928402,0.00265192
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,15,ClassA,shoot dry weight,Biomass,3,4.259493671,0.274058672,3,4.708860759,0.241171631,0.100295705,0.002254286
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,25,ClassB,shoot dry weight,Biomass,3,4.259493671,0.274058672,3,5.291139241,0.241171631,0.216883284,0.002072428
+Seed nano-priming with Zinc Oxide nanoparticles in rice mitigates drought and enhances agronomic profile ,45,2022,Mazhar,Pot,Zn,Seed,Rice,30,ClassA,50,ClassC,shoot dry weight,Biomass,3,4.259493671,0.274058672,3,4.873417722,0.252133978,0.134645185,0.002272132
+Divergence in response of japonica and hybrid rice to titanium dioxide nanoparticles,46,2021,Xu,Pot,Ti,Soil,Rice,20,ClassA,200,ClassD,thousands grams,Yield,3,29.29,0.82,3,25.91,1.82,-0.122617166,0.001905957
+Divergence in response of japonica and hybrid rice to titanium dioxide nanoparticles,46,2021,Xu,Pot,Ti,Soil,Rice,20,ClassA,200,ClassD,thousands grams,Yield,3,25.96,0.25,3,26.28,0.48,0.012251302,0.000142115
+Divergence in response of japonica and hybrid rice to titanium dioxide nanoparticles,46,2021,Xu,Pot,Ti,Soil,Rice,20,ClassA,200,ClassD,plant height,Growth,3,79.3,3.91,3,81.55,4.45,0.0279782,0.001802921
+Divergence in response of japonica and hybrid rice to titanium dioxide nanoparticles,46,2021,Xu,Pot,Ti,Soil,Rice,20,ClassA,200,ClassD,plant height,Growth,3,102,3.14,3,105.63,1.18,0.034969609,0.000357489
+Divergence in response of japonica and hybrid rice to titanium dioxide nanoparticles,46,2021,Xu,Pot,Ti,Soil,Rice,20,ClassA,200,ClassD,root dry weight,Biomass,3,10.49875289,1.137873905,3,11.46225844,0.068914871,0.087803286,0.003927589
+Divergence in response of japonica and hybrid rice to titanium dioxide nanoparticles,46,2021,Xu,Pot,Ti,Soil,Rice,20,ClassA,200,ClassD,root dry weight,Biomass,3,12.93244235,2.090417742,3,16.14846964,2.412020472,0.222086221,0.016145972
+Divergence in response of japonica and hybrid rice to titanium dioxide nanoparticles,46,2021,Xu,Pot,Ti,Soil,Rice,20,ClassA,200,ClassD,shoot dry weight,Biomass,3,30.97062152,3.966841542,3,37.56866772,3.105355753,0.193131335,0.00774596
+Divergence in response of japonica and hybrid rice to titanium dioxide nanoparticles,46,2021,Xu,Pot,Ti,Soil,Rice,20,ClassA,200,ClassD,shoot dry weight,Biomass,3,39.43855936,6.310884272,3,38.80413184,5.676456752,-0.01621727,0.015668353
+Nickel Oxide Nanoparticles Improve Soybean Yield and Enhance Nitrogen Assimilation,47,2023,"Zhou, P",Pot,Ni,Soil,Soybean,40,ClassB,10,ClassA,hundreds grams,Yield,6,193.8888889,45,6,222.4074074,40.12345679,0.137225611,0.014402099
+Nickel Oxide Nanoparticles Improve Soybean Yield and Enhance Nitrogen Assimilation,47,2023,"Zhou, P",Pot,Ni,Soil,Soybean,40,ClassB,50,ClassC,hundreds grams,Yield,6,193.8888889,45,6,247.0987654,23.91975309,0.242502859,0.010539543
+Nickel Oxide Nanoparticles Improve Soybean Yield and Enhance Nitrogen Assimilation,47,2023,"Zhou, P",Pot,Ni,Soil,Soybean,40,ClassB,100,ClassD,hundreds grams,Yield,6,193.8888889,45,6,222.0216049,20.44753086,0.135489439,0.010391403
+Nickel Oxide Nanoparticles Improve Soybean Yield and Enhance Nitrogen Assimilation,47,2023,"Zhou, P",Pot,Ni,Soil,Soybean,40,ClassB,200,ClassD,hundreds grams,Yield,6,193.8888889,45,6,164.9228395,24.30555556,-0.161807532,0.012597673
+Nickel Oxide Nanoparticles Improve Soybean Yield and Enhance Nitrogen Assimilation,47,2023,"Zhou, P",Pot,Ni,Soil,Soybean,40,ClassB,10,ClassA,grains yield,Yield,6,3.864814815,0.622222222,6,3.764814815,0.677777778,-0.026215093,0.009721758
+Nickel Oxide Nanoparticles Improve Soybean Yield and Enhance Nitrogen Assimilation,47,2023,"Zhou, P",Pot,Ni,Soil,Soybean,40,ClassB,50,ClassC,grains yield,Yield,6,3.864814815,0.622222222,6,5.387037037,1.044444444,0.332081751,0.010584964
+Nickel Oxide Nanoparticles Improve Soybean Yield and Enhance Nitrogen Assimilation,47,2023,"Zhou, P",Pot,Ni,Soil,Soybean,40,ClassB,100,ClassD,grains yield,Yield,6,3.864814815,0.622222222,6,3.62037037,0.177777778,-0.065337435,0.004721868
+Nickel Oxide Nanoparticles Improve Soybean Yield and Enhance Nitrogen Assimilation,47,2023,"Zhou, P",Pot,Ni,Soil,Soybean,40,ClassB,200,ClassD,grains yield,Yield,6,3.864814815,0.622222222,6,2.82037037,0.377777778,-0.315045554,0.007310249
+Efficacy of ZnO nanoparticles in Zn fortification and partitioning of wheat and rice grains under salt stress,48,2023,"Mazhar, Z",Pot,Zn,Soil,Wheat,22,ClassA,7,ClassA,grain yield/plant,Yield,3,15.5,0.917986928,3,25.5,1.004589468,0.497838428,0.001686538
+Efficacy of ZnO nanoparticles in Zn fortification and partitioning of wheat and rice grains under salt stress,48,2023,"Mazhar, Z",Pot,Zn,Soil,Wheat,22,ClassA,7,ClassA,shoot length,Growth,3,84.3,2.424871131,3,94.3,3.810511777,0.112099325,0.000820084
+Efficacy of ZnO nanoparticles in Zn fortification and partitioning of wheat and rice grains under salt stress,48,2023,"Mazhar, Z",Pot,Zn,Soil,Wheat,22,ClassA,7,ClassA,grain yield/plant,Yield,3,25.7,0.45033321,3,33.8,0.779422863,0.273969811,0.0002796
+Efficacy of ZnO nanoparticles in Zn fortification and partitioning of wheat and rice grains under salt stress,48,2023,"Mazhar, Z",Pot,Zn,Soil,Wheat,22,ClassA,7,ClassA,plant height,Growth,3,82.8,0.73,3,87.8,0.44,0.058633439,3.43E-05
+Transcriptomics and metabolomics reveal the mechanisms of enhanced constitutive resistance in rice by silica nanomaterials,49,2023,"Wang, Jing",Pot,Si,Foliar,Rice,8,ClassA,50,ClassC,hundreds grams,Yield,3,2.227483165,0.154540194,3,2.645070497,0.223590067,0.171825395,0.003986296
+Transcriptomics and metabolomics reveal the mechanisms of enhanced constitutive resistance in rice by silica nanomaterials,49,2023,"Wang, Jing",Pot,Si,Foliar,Rice,8,ClassA,50,ClassC,grain yield/plant,Yield,3,26.71662125,2.452316076,3,35.51771117,1.076294278,0.284745588,0.003114553
+Transcriptomics and metabolomics reveal the mechanisms of enhanced constitutive resistance in rice by silica nanomaterials,49,2023,"Wang, Jing",Pot,Si,Foliar,Rice,8,ClassA,50,ClassC,root fresh weight,Biomass,3,3.508928571,0.744642857,3,4.339285714,0.380357143,0.212399012,0.017572651
+Transcriptomics and metabolomics reveal the mechanisms of enhanced constitutive resistance in rice by silica nanomaterials,49,2023,"Wang, Jing",Pot,Si,Foliar,Rice,8,ClassA,50,ClassC,root dry weight,Biomass,3,0.561068702,0.117938931,3,0.698234733,0.10999788,0.218711978,0.023001232
+Transcriptomics and metabolomics reveal the mechanisms of enhanced constitutive resistance in rice by silica nanomaterials,49,2023,"Wang, Jing",Pot,Si,Foliar,Rice,8,ClassA,50,ClassC,shoot fresh weight,Biomass,3,4.28125,0.669642857,3,5.833928571,0.251785714,0.309445605,0.008775897
+Transcriptomics and metabolomics reveal the mechanisms of enhanced constitutive resistance in rice by silica nanomaterials,49,2023,"Wang, Jing",Pot,Si,Foliar,Rice,8,ClassA,50,ClassC,shoot dry weight,Biomass,3,0.975572519,0.171755725,3,1.220610687,0.097328244,0.224082078,0.012451292
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,15,ClassA,grain yield/plant,Yield,3,7.829787234,0.226950355,3,10.78014184,0.170212766,0.319770387,0.000363156
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,25,ClassB,grain yield/plant,Yield,3,7.829787234,0.226950355,3,13.91489362,0.836879433,0.575024414,0.001485768
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,15,ClassA,plant height,Growth,3,45.2367688,0.584958217,3,57.32590529,1.169916435,0.236842396,0.000194568
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,25,ClassB,plant height,Growth,3,45.2367688,0.584958217,3,64.24791086,0.877437326,0.350838982,0.000117909
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,15,ClassA,chlorophyll,Photosynthetic Pigment,3,1.919696,0.095541401,3,2.361862934,0.025477707,0.207283846,0.000864439
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,25,ClassB,chlorophyll,Photosynthetic Pigment,3,1.919696,0.095541401,3,2.651153169,0.055201699,0.322827863,0.000970167
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,15,ClassA,chl A,Photosynthetic Pigment,3,1.866640947,0.093339307,3,2.302224379,0.023334827,0.209735246,0.000867708
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,25,ClassB,chl A,Photosynthetic Pigment,3,1.866640947,0.093339307,3,2.577056783,0.062226205,0.322507435,0.00102781
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,15,ClassA,chl B,Photosynthetic Pigment,3,0.053055077,0.001871773,3,0.059638554,0.000516351,0.116971681,0.000439875
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,25,ClassB,chl B,Photosynthetic Pigment,3,0.053055077,0.001871773,3,0.074096386,0.003420826,0.334036197,0.00112536
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,15,ClassA,root dry weight,Biomass,3,2.641975309,0.092592593,3,3.259259259,0.043209877,0.209973088,0.000468012
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,25,ClassB,root dry weight,Biomass,3,2.641975309,0.092592593,3,3.820987654,0.111111111,0.368982077,0.00069129
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,15,ClassA,shoot dry weight,Biomass,3,12.7016129,0.846774194,3,16.93548387,0.362903226,0.287682073,0.001634543
+"Effect of iron nanoparticles and conventional sources of Fe on growth, physiology and nutrient accumulation in wheat plants grown on normal and salt-affected soils",50,2023,"Zia-Ur-Rehman, M",Pot,Fe,Foliar,Wheat,100,ClassC,25,ClassB,shoot dry weight,Biomass,3,12.7016129,0.846774194,3,20.24193548,1.129032258,0.466027481,0.002518502
+Zinc oxide nanoparticles coated urea enhances nitrogen efficiency and zinc bioavailability in wheat in alkaline calcareous soils,51,2023,"S. Amin, T",Pot,Zn,Soil,Wheat,25,ClassA,2.8,ClassA,hundreds grams,Yield,3,1.43,0.034641016,3,1.81,0.034641016,0.235652401,0.000317705
+Zinc oxide nanoparticles coated urea enhances nitrogen efficiency and zinc bioavailability in wheat in alkaline calcareous soils,51,2023,"S. Amin, T",Pot,Zn,Soil,Wheat,25,ClassA,5.7,ClassA,hundreds grams,Yield,3,1.43,0.034641016,3,1.71,0.034641016,0.178818926,0.000332403
+Zinc oxide nanoparticles coated urea enhances nitrogen efficiency and zinc bioavailability in wheat in alkaline calcareous soils,51,2023,"S. Amin, T",Pot,Zn,Soil,Wheat,25,ClassA,2.8,ClassA,plant height,Growth,3,78.4,1.039230485,3,81,0.692820323,0.032625227,8.30E-05
+Zinc oxide nanoparticles coated urea enhances nitrogen efficiency and zinc bioavailability in wheat in alkaline calcareous soils,51,2023,"S. Amin, T",Pot,Zn,Soil,Wheat,25,ClassA,5.7,ClassA,plant height,Growth,3,78.4,1.039230485,3,79.2,2.25166605,0.010152371,0.000327993
+Role of nanosilicab to boost the activities of metabolites in Triticum aestivum facing drought stress,52,2022,Akhtar,Pot,Si,Soil,Wheat,30,ClassA,150,ClassD,hundreds grams,Yield,3,3.31,0.0012,3,3.8,0.0029,0.138052877,2.38E-07
+Role of nanosilicab to boost the activities of metabolites in Triticum aestivum facing drought stress,52,2022,Akhtar,Pot,Si,Soil,Wheat,30,ClassA,150,ClassD,shoot fresh weight,Biomass,3,11.27050886,0.280298219,3,15.36987032,0.420447329,0.310219642,0.000455611
+Role of nanosilicab to boost the activities of metabolites in Triticum aestivum facing drought stress,52,2022,Akhtar,Pot,Si,Soil,Wheat,30,ClassA,150,ClassD,shoot dry weight,Biomass,3,1.75788804,0.204384118,3,1.933074427,0.262779581,0.094998592,0.010665769
+Role of nanosilicab to boost the activities of metabolites in Triticum aestivum facing drought stress,52,2022,Akhtar,Pot,Si,Soil,Wheat,30,ClassA,150,ClassD,root length,Growth,3,22.30024379,0.504536795,3,23.77180944,0.462492062,0.063902791,0.000296798
+Role of nanosilicab to boost the activities of metabolites in Triticum aestivum facing drought stress,52,2022,Akhtar,Pot,Si,Soil,Wheat,30,ClassA,150,ClassD,shoot length,Growth,3,77.22755013,0.697471665,3,87.0793374,0.871839582,0.120063367,6.06E-05
+Role of nanosilicab to boost the activities of metabolites in Triticum aestivum facing drought stress,52,2022,Akhtar,Pot,Si,Soil,Wheat,30,ClassA,150,ClassD,chl A,Photosynthetic Pigment,3,3.051782075,0.018936264,3,3.638806258,0.022379221,0.17592997,2.54E-05
+Role of nanosilicab to boost the activities of metabolites in Triticum aestivum facing drought stress,52,2022,Akhtar,Pot,Si,Soil,Wheat,30,ClassA,150,ClassD,chl B,Photosynthetic Pigment,3,2.499187462,0.017214785,3,2.8331543,0.010328871,0.125425021,2.02E-05
+"EFFECT OF DIFFERENT RESOURCES AND METHODS OF SILICON AND ZINC APPLICATION ON AGRONOMIC TRAITS, NUTRIENT UPTAKE AND GRAIN YIELD OF RICE ",54,2018,N. Kheyri,Field,Si,Foliar,Rice,30,ClassA,50,ClassC,grains yield,Yield,3,3.503,0.3503,3,4.031,0.4301,0.14039474,0.007128161
+"EFFECT OF DIFFERENT RESOURCES AND METHODS OF SILICON AND ZINC APPLICATION ON AGRONOMIC TRAITS, NUTRIENT UPTAKE AND GRAIN YIELD OF RICE ",54,2018,N. Kheyri,Field,Si,Foliar,Rice,30,ClassA,50,ClassC,thousands grams,Yield,3,25.33,2.533,3,25.67,2.567,0.013333531,0.006666667
+"EFFECT OF DIFFERENT RESOURCES AND METHODS OF SILICON AND ZINC APPLICATION ON AGRONOMIC TRAITS, NUTRIENT UPTAKE AND GRAIN YIELD OF RICE ",54,2018,N. Kheyri,Field,Si,Foliar,Rice,30,ClassA,50,ClassC,plant height,Growth,3,135.2,13.52,3,138.9,13.89,0.026999086,0.006666667
+"EFFECT OF DIFFERENT RESOURCES AND METHODS OF SILICON AND ZINC APPLICATION ON AGRONOMIC TRAITS, NUTRIENT UPTAKE AND GRAIN YIELD OF RICE ",54,2018,N. Kheyri,Field,Zn,Foliar,Rice,30,ClassA,50,ClassC,grains yield,Yield,3,3.503,0.3503,3,4.133,0.4133,0.165383791,0.006666667
+"EFFECT OF DIFFERENT RESOURCES AND METHODS OF SILICON AND ZINC APPLICATION ON AGRONOMIC TRAITS, NUTRIENT UPTAKE AND GRAIN YIELD OF RICE ",54,2018,N. Kheyri,Field,Zn,Foliar,Rice,30,ClassA,50,ClassC,thousands grams,Yield,3,25.33,2.533,3,25.73,2.573,0.015668162,0.006666667
+"EFFECT OF DIFFERENT RESOURCES AND METHODS OF SILICON AND ZINC APPLICATION ON AGRONOMIC TRAITS, NUTRIENT UPTAKE AND GRAIN YIELD OF RICE ",54,2018,N. Kheyri,Field,Zn,Foliar,Rice,30,ClassA,50,ClassC,plant height,Growth,3,135.2,13.52,3,140.1,14.01,0.03560129,0.006666667
+"Effect of Silica, Bio-Organic Fertilizers, and Spraying of Nano-Titanium and Nano-Cobalt on the Growth and Yield of Rice  ",55,2022,Ameer Eamad Neamah AL-Sultanei,Field,Ti,Foliar,Rice,20,ClassA,100,ClassD,grains yield,Yield,3,2.97,0.297,3,3.48,0.348,0.158470341,0.006666667
+"Effect of Silica, Bio-Organic Fertilizers, and Spraying of Nano-Titanium and Nano-Cobalt on the Growth and Yield of Rice  ",55,2022,Ameer Eamad Neamah AL-Sultanei,Field,Ti,Foliar,Rice,20,ClassA,100,ClassD,thousands grams,Yield,3,19.4,1.94,3,19.7,1.97,0.01534557,0.006666667
+"Effect of Silica, Bio-Organic Fertilizers, and Spraying of Nano-Titanium and Nano-Cobalt on the Growth and Yield of Rice  ",55,2022,Ameer Eamad Neamah AL-Sultanei,Field,Ti,Foliar,Rice,20,ClassA,100,ClassD,plant height,Growth,3,113.5,11.35,3,117.5,11.75,0.034635497,0.006666667
+"Effect of Silica, Bio-Organic Fertilizers, and Spraying of Nano-Titanium and Nano-Cobalt on the Growth and Yield of Rice  ",55,2022,Ameer Eamad Neamah AL-Sultanei,Field,Co,Foliar,Rice,20,ClassA,100,ClassD,grains yield,Yield,3,2.97,0.297,3,3.72,0.372,0.225161715,0.006666667
+"Effect of Silica, Bio-Organic Fertilizers, and Spraying of Nano-Titanium and Nano-Cobalt on the Growth and Yield of Rice  ",55,2022,Ameer Eamad Neamah AL-Sultanei,Field,Co,Foliar,Rice,20,ClassA,100,ClassD,thousands grams,Yield,3,19.4,1.94,3,20.5,2.05,0.05515182,0.006666667
+"Effect of Silica, Bio-Organic Fertilizers, and Spraying of Nano-Titanium and Nano-Cobalt on the Growth and Yield of Rice  ",55,2022,Ameer Eamad Neamah AL-Sultanei,Field,Co,Foliar,Rice,20,ClassA,100,ClassD,plant height,Growth,3,113.5,11.35,3,117,11.7,0.030371098,0.006666667
+Biochar and Selenium Nanoparticles Induce Water Transporter Genes for Sustaining Carbon Assimilation and Grain Production in Salt-Stressed Wheat,56,2023,Soliman,Pot,Se,Foliar,Wheat,80,ClassC,30,ClassB,grain yield/plant,Yield,3,6.266519825,0.168775,3,9.779735683,1.2893,0.445091309,0.006035178
+Biochar and Selenium Nanoparticles Induce Water Transporter Genes for Sustaining Carbon Assimilation and Grain Production in Salt-Stressed Wheat,56,2023,Soliman,Pot,Se,Foliar,Wheat,80,ClassC,30,ClassB,plant height,Growth,3,54.41558442,3.2641,3,25.45454545,3.1834,-0.759756261,0.006412899
+"Effects of nano-molybdenum fertilizers on mo-inefficient 
+winter wheat grown in acidic soil",57,2024,Muhamad Syaifudin,Pot,Mo,Foliar,Wheat,99,ClassC,500,ClassE,chl A,Photosynthetic Pigment,3,3.81981982,0.702702703,3,9.297297297,0.945945946,0.889520491,0.014731331
+"Effects of nano-molybdenum fertilizers on mo-inefficient 
+winter wheat grown in acidic soil",57,2024,Muhamad Syaifudin,Pot,Mo,Foliar,Wheat,99,ClassC,500,ClassE,chl B,Photosynthetic Pigment,3,2.153153153,0.252252252,3,4.288288288,0.36036036,0.688954302,0.006928966
+"Effects of nano-molybdenum fertilizers on mo-inefficient 
+winter wheat grown in acidic soil",57,2024,Muhamad Syaifudin,Pot,Mo,Foliar,Wheat,99,ClassC,500,ClassE,chlorophyll,Photosynthetic Pigment,3,6,0.963963964,3,13.58558559,1.288288288,0.817249878,0.011601373
+"Effects of nano-molybdenum fertilizers on mo-inefficient 
+winter wheat grown in acidic soil",57,2024,Muhamad Syaifudin,Pot,Mo,Foliar,Wheat,99,ClassC,500,ClassE,root dry weight,Biomass,3,5.761589404,0.662251656,3,10.79470199,1.059602649,0.627842082,0.007615691
+"Effects of nano-molybdenum fertilizers on mo-inefficient 
+winter wheat grown in acidic soil",57,2024,Muhamad Syaifudin,Pot,Mo,Foliar,Wheat,99,ClassC,500,ClassE,shoot dry weight,Biomass,3,11.49006623,0.695364238,3,13.87417219,1.456953642,0.18854614,0.004896674
+"Effects of nano-molybdenum fertilizers on mo-inefficient 
+winter wheat grown in acidic soil",57,2024,Muhamad Syaifudin,Pot,Mo,Foliar,Wheat,99,ClassC,500,ClassE,thousands grams,Yield,4,25.33,0.2,4,30.33,3.64,0.180147858,0.003616377
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,chl A,Photosynthetic Pigment,3,3.488372093,0.148837209,3,3.981395349,0.153488372,0.13219717,0.001102218
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,chl B,Photosynthetic Pigment,3,2.352173913,0.156696,3,2.817391304,0.11235,0.180471417,0.002009365
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,plant height,Growth,3,110.4878049,7.317073171,3,117.804878,7.073170732,0.064124528,0.002663581
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,thousands grams,Yield,3,36.875,4.114583333,3,37.29166667,3.90625,0.011236073,0.007807598
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,grain yield/plant,Yield,3,8,1.122807018,3,8.298245614,1.070175439,0.036602579,0.012110032
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,chl A,Photosynthetic Pigment,3,3.460465116,0.148837209,3,3.576744186,0.144186047,0.033049935,0.00115833
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,chl B,Photosynthetic Pigment,3,2.526086957,0.3,3,3.404347826,0.313043478,0.298381939,0.007519887
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,plant height,Growth,3,97.07317073,7.195121951,3,98.90243902,7.195121951,0.018668868,0.00359546
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,thousands grams,Yield,3,23.17708333,4.21875,3,24.27083333,4.0625,0.046111352,0.020382969
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,grain yield/plant,Yield,3,11.24561404,1.105263158,3,11.8245614,1.122807018,0.050200653,0.006225425
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,chl A,Photosynthetic Pigment,3,3.48372093,0.144186047,3,3.613953488,0.148837209,0.036701367,0.001136378
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,chl B,Photosynthetic Pigment,3,1.991304348,0.32173913,3,2.508695652,0.308695652,0.230973082,0.013748965
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,plant height,Growth,3,106.2195122,7.195121951,3,108.1707317,7.317073171,0.018203005,0.003054715
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,thousands grams,Yield,3,25.15625,4.21875,3,25.36458333,3.90625,0.008247469,0.017280393
+"Exogenous application of nano-silicon, potassium sulfate, or 
+proline enhances physiological parameters, antioxidant enzyme 
+activities, and agronomic traits of diverse rice genotypes under 
+water deficit conditions ",59,2024,Mohamed S. Abd-El-Aty,Field,Si,Foliar,Rice,30,ClassA,400,ClassE,grain yield/plant,Yield,3,9.842105263,1.140350877,3,10.15789474,1.122807018,0.031581572,0.008547555
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,10,ClassA,chl A,Photosynthetic Pigment,3,1.059782609,0.120652174,3,1.144565217,0.035869565,0.076961041,0.004647694
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,50,ClassC,chl A,Photosynthetic Pigment,3,1.059782609,0.120652174,3,1.193478261,0.075,0.118808151,0.005636668
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,10,ClassA,chl A,Photosynthetic Pigment,3,1.059782609,0.120652174,3,1.232608696,0.07173913,0.151069013,0.005449437
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,50,ClassC,chl B,Photosynthetic Pigment,3,0.555147059,0.020220588,3,0.584558824,0.079044118,0.051624366,0.00653706
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,10,ClassA,chl B,Photosynthetic Pigment,3,0.555147059,0.020220588,3,0.584558824,0.079044118,0.051624366,0.00653706
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,50,ClassC,chl B,Photosynthetic Pigment,3,0.555147059,0.020220588,3,0.720588235,0.056985294,0.260834822,0.002526867
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,100,ClassD,chlorophyll,Photosynthetic Pigment,3,1.440217391,0.081521739,3,1.559782609,0.016304348,0.07975239,0.001104417
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,10,ClassA,chlorophyll,Photosynthetic Pigment,3,1.440217391,0.081521739,3,1.619565217,0.086956522,0.11736366,0.002028913
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,50,ClassC,chlorophyll,Photosynthetic Pigment,3,1.440217391,0.081521739,3,1.777173913,0.119565217,0.210230345,0.002576785
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,100,ClassD,plant height,Growth,3,67.04255861,0.637104995,3,67.99821611,1.27420999,0.01415385,0.000147151
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,10,ClassA,plant height,Growth,3,67.04255861,0.637104995,3,69.43170234,1.592762487,0.035015948,0.000205517
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,50,ClassC,plant height,Growth,3,67.04255861,0.637104995,3,71.02446483,1.433486239,0.057696772,0.000165887
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,100,ClassD,thousands grams,Yield,3,31.2345679,3.703703704,3,34.07407407,0.987654321,0.087011377,0.004966894
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,10,ClassA,thousands grams,Yield,3,31.2345679,3.703703704,3,37.77777778,1.358024691,0.190195613,0.005117587
+Modulations of wheat growth by selenium nanoparticles under salinity stress,60,2024,Sara Zafar,Pot,Se,Foliar,Wheat,37,ClassB,50,ClassC,thousands grams,Yield,3,31.2345679,3.703703704,3,39.38271605,0.49382716,0.231801614,0.004739251
+"Plant Nanobionic Effect of Multi-walled Carbon Nanotubes
+on Growth, Anatomy, Yield and Grain Composition of Rice",61,2020,Anjali Joshi,Pot,C,Seed,Rice,10,ClassA,70,ClassC,shoot length,Growth,5,76.51515152,4.848484848,5,92.72727273,3.939393939,0.192173853,0.001164031
+"Plant Nanobionic Effect of Multi-walled Carbon Nanotubes
+on Growth, Anatomy, Yield and Grain Composition of Rice",61,2020,Anjali Joshi,Pot,C,Seed,Rice,10,ClassA,80,ClassC,shoot length,Growth,5,76.51515152,4.848484848,5,95.75757576,4.242424242,0.224330965,0.001195624
+"Plant Nanobionic Effect of Multi-walled Carbon Nanotubes
+on Growth, Anatomy, Yield and Grain Composition of Rice",61,2020,Anjali Joshi,Pot,C,Seed,Rice,10,ClassA,90,ClassC,shoot length,Growth,5,76.51515152,4.848484848,5,98.33333333,4.848484848,0.250874287,0.001289287
+"Plant Nanobionic Effect of Multi-walled Carbon Nanotubes
+on Growth, Anatomy, Yield and Grain Composition of Rice",61,2020,Anjali Joshi,Pot,C,Seed,Rice,10,ClassA,70,ClassC,hundreds grams,Yield,5,2.243243243,0.121621622,5,2.355855856,0.108108108,0.048981387,0.001009056
+"Plant Nanobionic Effect of Multi-walled Carbon Nanotubes
+on Growth, Anatomy, Yield and Grain Composition of Rice",61,2020,Anjali Joshi,Pot,C,Seed,Rice,10,ClassA,80,ClassC,hundreds grams,Yield,5,2.243243243,0.121621622,5,2.427927928,0.130630631,0.079115494,0.001166854
+"Plant Nanobionic Effect of Multi-walled Carbon Nanotubes
+on Growth, Anatomy, Yield and Grain Composition of Rice",61,2020,Anjali Joshi,Pot,C,Seed,Rice,10,ClassA,90,ClassC,hundreds grams,Yield,5,2.243243243,0.121621622,5,2.472972973,0.121621622,0.097498365,0.001071635
+"Effect of Foliar Spray Application of Zinc Oxide 
+Nanoparticles on Quantitative, Nutritional, and 
+Physiological Parameters of Foxtail Millet (Setaria 
+italica L.) under Field Conditions",62,2019,Marek Kolen?¨ªk,Field,Zn,Foliar,Rice,40,ClassB,2.6,ClassA,plant height,Growth,3,103.1,19.2,3,108.9,12.1,0.054730639,0.015675387
+"Effect of Foliar Spray Application of Zinc Oxide 
+Nanoparticles on Quantitative, Nutritional, and 
+Physiological Parameters of Foxtail Millet (Setaria 
+italica L.) under Field Conditions",62,2019,Marek Kolen?¨ªk,Field,Zn,Foliar,Rice,40,ClassB,2.6,ClassA,thousands grams,Yield,3,5.37,0.89,3,5.19,0.51,-0.034094211,0.012374822
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,5,ClassA,plant height,Growth,4,42.25225225,1.261261261,4,48.55855856,1.171171171,0.139112803,0.000368195
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,10,ClassA,plant height,Growth,4,42.25225225,1.261261261,4,51.89189189,1.081271144,0.205504892,0.000331312
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,15,ClassA,plant height,Growth,4,42.25225225,1.261261261,4,53.78378378,0.624835505,0.241314345,0.000256509
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,20,ClassB,plant height,Growth,4,42.25225225,1.261261261,4,57.2972973,1.712782692,0.304595795,0.000446163
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,5,ClassA,grain yield/plant,Yield,4,10.10273973,0.51369863,4,12.7739726,0.376712329,0.234603063,0.00086379
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,10,ClassA,grain yield/plant,Yield,4,10.10273973,0.51369863,4,14.5890411,0.308219178,0.36746399,0.000757951
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,15,ClassA,grain yield/plant,Yield,4,10.10273973,0.51369863,4,15.61643836,0.684931507,0.435517453,0.001127283
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,20,ClassB,grain yield/plant,Yield,4,10.10273973,0.51369863,4,17.2260274,0.342465753,0.533614814,0.000745177
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,5,ClassA,chl A,Photosynthetic Pigment,4,2.280851064,0.076595745,4,2.663829787,0.085106383,0.15521621,0.000537122
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,10,ClassA,chl A,Photosynthetic Pigment,4,2.280851064,0.076595745,4,2.817021277,0.178723404,0.211131395,0.001288228
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,15,ClassA,chl A,Photosynthetic Pigment,4,2.280851064,0.076595745,4,3.123404255,0.127659574,0.314374867,0.000699568
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,20,ClassB,chl A,Photosynthetic Pigment,4,2.280851064,0.076595745,4,3.310638298,0.127659574,0.372592363,0.000653666
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,5,ClassA,chl B,Photosynthetic Pigment,4,0.642857143,0.044642857,4,0.782738095,0.098214286,0.196875624,0.005141645
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,10,ClassA,chl B,Photosynthetic Pigment,4,0.642857143,0.044642857,4,0.985119048,0.113095238,0.426839968,0.004500601
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,15,ClassA,chl B,Photosynthetic Pigment,4,0.642857143,0.044642857,4,1.214285714,0.068452381,0.635988766,0.002000099
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Fe,Foliar,Wheat,100,ClassC,20,ClassB,chl B,Photosynthetic Pigment,4,0.642857143,0.044642857,4,1.389880952,0.035714286,0.771050849,0.001370703
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,25,ClassB,plant height,Growth,4,41.08108108,0.900900901,4,46.57657658,1.441441441,0.125550065,0.000359671
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,50,ClassC,plant height,Growth,4,41.08108108,0.900900901,4,50.54054054,1.801801802,0.207228096,0.000437971
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,75,ClassC,plant height,Growth,4,41.08108108,0.900900901,4,51.62162162,1.081081081,0.228392907,0.000229875
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,100,ClassD,plant height,Growth,4,41.08108108,0.900900901,4,56.48648649,0.990990991,0.318453731,0.000197176
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,25,ClassB,grain yield/plant,Yield,4,10.1369863,0.479452055,4,12.67123288,0.342465753,0.223143552,0.000741874
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,50,ClassC,grain yield/plant,Yield,4,10.1369863,0.479452055,4,14.5890411,0.479452055,0.364079892,0.000829267
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,75,ClassC,grain yield/plant,Yield,4,10.1369863,0.479452055,4,15.92465753,0.410958904,0.451677951,0.000725752
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,100,ClassD,grain yield/plant,Yield,4,10.1369863,0.479452055,4,17.60273973,0.308219178,0.551863811,0.000635906
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,25,ClassB,chl A,Photosynthetic Pigment,4,2.280851064,0.076595745,4,2.629787234,0.068085106,0.142354296,0.000449512
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,50,ClassC,chl A,Photosynthetic Pigment,4,2.280851064,0.076595745,4,2.995744681,0.119148936,0.272644195,0.000677407
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,75,ClassC,chl A,Photosynthetic Pigment,4,2.280851064,0.076595745,4,3.327659574,0.178723404,0.377720579,0.001003088
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,100,ClassD,chl A,Photosynthetic Pigment,4,2.280851064,0.076595745,4,3.557446809,0.187234043,0.444494452,0.00097446
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,25,ClassB,chl B,Photosynthetic Pigment,4,0.616071429,0.038690476,4,0.839285714,0.098214286,0.309188277,0.004409515
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,50,ClassC,chl B,Photosynthetic Pigment,4,0.616071429,0.038690476,4,1.083333333,0.071428571,0.564435073,0.002072846
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,75,ClassC,chl B,Photosynthetic Pigment,4,0.616071429,0.038690476,4,1.336309524,0.053571429,0.774304094,0.001387804
+"Zinc and iron oxide nanoparticles improved the plant growth and reduced the
+oxidative stress and cadmium concentration in wheat",63,2018,Muhammad Rizwan,Pot,Zn,Foliar,Wheat,30,ClassA,100,ClassD,chl B,Photosynthetic Pigment,4,0.616071429,0.038690476,4,1.44047619,0.089285714,0.849366112,0.001946508
+"Response of rice yield and quality to nano-fertilizers in
+comparison with conventional fertilizers",64,2016,Seyed Taghi Sadati Valojai,Field,N,Foliar,Rice,60,ClassB,1000,ClassF,grains yield,Yield,3,1.988888889,0.1,3,3.977777778,0.177777778,0.693147181,0.001508484
+"Response of rice yield and quality to nano-fertilizers in
+comparison with conventional fertilizers",64,2016,Seyed Taghi Sadati Valojai,Field,P,Foliar,Rice,60,ClassB,1000,ClassF,grains yield,Yield,3,1.988888889,0.1,3,2.8,0.311111111,0.342043282,0.004957897
+"Response of rice yield and quality to nano-fertilizers in
+comparison with conventional fertilizers",64,2016,Seyed Taghi Sadati Valojai,Field,K,Foliar,Rice,60,ClassB,1000,ClassF,grains yield,Yield,3,1.988888889,0.1,3,3.422222222,0.244444444,0.542713977,0.002543351
+"Response of rice yield and quality to nano-fertilizers in
+comparison with conventional fertilizers",64,2016,Seyed Taghi Sadati Valojai,Field,N,Foliar,Rice,60,ClassB,1000,ClassF,grains yield,Yield,3,4.322580645,0.548387097,3,6.758064516,0.5,0.446883939,0.007189593
+"Response of rice yield and quality to nano-fertilizers in
+comparison with conventional fertilizers",64,2016,Seyed Taghi Sadati Valojai,Field,P,Foliar,Rice,60,ClassB,1000,ClassF,grains yield,Yield,3,4.322580645,0.548387097,3,6.161290323,0.580645161,0.354433628,0.008325411
+"Response of rice yield and quality to nano-fertilizers in
+comparison with conventional fertilizers",64,2016,Seyed Taghi Sadati Valojai,Field,K,Foliar,Rice,60,ClassB,1000,ClassF,grains yield,Yield,3,4.322580645,0.548387097,3,5.322580645,0.661290323,0.208105674,0.01051036
+"Foliar Applied Selenium Nanoparticles Can Alleviate Soil Cadmium 
+Stress Through Physio chemical and Stomatal Changes to Optimize 
+Yield, Antioxidant Capacity, and Fatty Acid Profle of Wheat  ",66,2022,Leila Nasirzadeh,Pot,Se,Foliar,Wheat,40,ClassB,20,ClassB,grains yield,Yield,5,14.99173028,0.270356234,5,15.05534351,0.238549618,0.004234244,0.000115255
+"Foliar Applied Selenium Nanoparticles Can Alleviate Soil Cadmium 
+Stress Through Physio chemical and Stomatal Changes to Optimize 
+Yield, Antioxidant Capacity, and Fatty Acid Profle of Wheat  ",66,2022,Leila Nasirzadeh,Pot,Se,Foliar,Wheat,40,ClassB,40,ClassB,grains yield,Yield,5,14.99173028,0.270356234,5,15.61195929,0.254452926,0.040538507,0.000118172
+"Simultaneous mitigation of cadmium and drought stress in wheat by
+soil application of iron nanoparticles",67,2020,Muhammad Adrees,Pot,Fe,Soil,Wheat,100,ClassC,25,ClassB,plant height,Growth,4,44.06015038,3.408521303,4,44.86215539,1.453634085,0.018038821,0.001758643
+"Simultaneous mitigation of cadmium and drought stress in wheat by
+soil application of iron nanoparticles",67,2020,Muhammad Adrees,Pot,Fe,Soil,Wheat,100,ClassC,50,ClassC,plant height,Growth,4,44.06015038,3.408521303,4,54.28571429,2.857142857,0.208705349,0.002188688
+"Simultaneous mitigation of cadmium and drought stress in wheat by
+soil application of iron nanoparticles",67,2020,Muhammad Adrees,Pot,Fe,Soil,Wheat,100,ClassC,100,ClassD,plant height,Growth,4,44.06015038,3.408521303,4,56.49122807,5.213032581,0.248529616,0.003625085
+"Simultaneous mitigation of cadmium and drought stress in wheat by
+soil application of iron nanoparticles",67,2020,Muhammad Adrees,Pot,Fe,Soil,Wheat,100,ClassC,25,ClassB,grain yield/plant,Yield,4,7.057471264,0.540229885,4,9.045977011,0.310344828,0.24823332,0.001759121
+"Simultaneous mitigation of cadmium and drought stress in wheat by
+soil application of iron nanoparticles",67,2020,Muhammad Adrees,Pot,Fe,Soil,Wheat,100,ClassC,50,ClassC,grain yield/plant,Yield,4,7.057471264,0.540229885,4,9.574712644,0.643678161,0.305038714,0.002594733
+"Simultaneous mitigation of cadmium and drought stress in wheat by
+soil application of iron nanoparticles",67,2020,Muhammad Adrees,Pot,Fe,Soil,Wheat,100,ClassC,100,ClassD,grain yield/plant,Yield,4,7.057471264,0.540229885,4,11.27586207,0.701149425,0.468577532,0.002431503
+"Influence of nanoscale micro-nutrient ¦Á-Fe2O3 on seed germination, 
+seedling growth, translocation, physiological effects and yield of rice and maize ",68,2021,Dilip Itroutwar Prerna,Field,Fe,Foliar,Rice,25,ClassA,10,ClassA,thousands grams,Yield,4,15.81259259,0.416666667,4,16.06722222,0.277777778,0.015974688,0.000248308
+"Influence of nanoscale micro-nutrient ¦Á-Fe2O4 on seed germination, 
+seedling growth, translocation, physiological effects and yield of rice and maize",68,2021,Dilip Itroutwar Prerna,Field,Fe,Foliar,Rice,25,ClassA,25,ClassB,thousands grams,Yield,4,15.81259259,0.416666667,4,16.02092593,0.287777778,0.013089116,0.000254249
+"Influence of nanoscale micro-nutrient ¦Á-Fe2O5 on seed germination, 
+seedling growth, translocation, physiological effects and yield of rice and maize",68,2021,Dilip Itroutwar Prerna,Field,Fe,Foliar,Rice,25,ClassA,50,ClassC,thousands grams,Yield,4,15.81259259,0.416666667,4,15.60425926,0.648148148,-0.013262715,0.000604907
+"Influence of nanoscale micro-nutrient ¦Á-Fe2O6 on seed germination, 
+seedling growth, translocation, physiological effects and yield of rice and maize",68,2021,Dilip Itroutwar Prerna,Field,Fe,Foliar,Rice,25,ClassA,75,ClassC,thousands grams,Yield,4,15.81259259,0.416666667,4,16.04407407,0.555555556,0.014532943,0.000473339
+"Influence of nanoscale micro-nutrient ¦Á-Fe2O7 on seed germination, 
+seedling growth, translocation, physiological effects and yield of rice and maize",68,2021,Dilip Itroutwar Prerna,Field,Fe,Foliar,Maize,25,ClassA,10,ClassA,thousands grams,Yield,4,306.6692872,2.620545073,4,317.1514675,1.965408805,0.033609549,2.79E-05
+"Influence of nanoscale micro-nutrient ¦Á-Fe2O8 on seed germination, 
+seedling growth, translocation, physiological effects and yield of rice and maize",68,2021,Dilip Itroutwar Prerna,Field,Fe,Foliar,Maize,25,ClassA,25,ClassB,thousands grams,Yield,4,306.6692872,2.620545073,4,331.5644654,13.10272537,0.07805233,0.000408671
+"Influence of nanoscale micro-nutrient ¦Á-Fe2O9 on seed germination, 
+seedling growth, translocation, physiological effects and yield of rice and maize",68,2021,Dilip Itroutwar Prerna,Field,Fe,Foliar,Maize,25,ClassA,50,ClassC,thousands grams,Yield,4,306.6692872,2.620545073,4,337.4606918,9.827044025,0.095679108,0.000230257
+"Influence of nanoscale micro-nutrient ¦Á-Fe2O10 on seed germination, 
+seedling growth, translocation, physiological effects and yield of rice and maize",68,2021,Dilip Itroutwar Prerna,Field,Fe,Foliar,Maize,25,ClassA,75,ClassC,thousands grams,Yield,4,306.6692872,2.620545073,4,344.9947589,6.551362683,0.117759299,0.000108408
+"The accumulation of cadmium in wheat (Triticum aestivum)
+as influenced by zinc oxide nanoparticles and soil moisture
+conditions",69,2019,Zahra Saeed Khan,Pot,Zn,Soil,Wheat,30,ClassA,25,ClassB,plant height,Growth,4,48.12371399,3.334728789,4,51.20192518,2.394164259,0.062002063,0.001747054
+"The accumulation of cadmium in wheat (Triticum aestivum)
+as influenced by zinc oxide nanoparticles and soil moisture
+conditions",69,2019,Zahra Saeed Khan,Pot,Zn,Soil,Wheat,30,ClassA,50,ClassC,plant height,Growth,4,48.12371399,3.334728789,4,56.84531236,1.282587996,0.166558691,0.001327716
+"The accumulation of cadmium in wheat (Triticum aestivum)
+as influenced by zinc oxide nanoparticles and soil moisture
+conditions",69,2019,Zahra Saeed Khan,Pot,Zn,Soil,Wheat,30,ClassA,100,ClassD,plant height,Growth,4,48.12371399,3.334728789,4,60.00902942,2.308658392,0.220719971,0.001570467
+"The accumulation of cadmium in wheat (Triticum aestivum)
+as influenced by zinc oxide nanoparticles and soil moisture
+conditions",69,2019,Zahra Saeed Khan,Pot,Zn,Soil,Wheat,30,ClassA,25,ClassB,grain yield/plant,Yield,4,7.72972973,0.630630631,4,9.405405405,0.414414414,0.196210669,0.002149381
+"The accumulation of cadmium in wheat (Triticum aestivum)
+as influenced by zinc oxide nanoparticles and soil moisture
+conditions",69,2019,Zahra Saeed Khan,Pot,Zn,Soil,Wheat,30,ClassA,50,ClassC,grain yield/plant,Yield,4,7.72972973,0.630630631,4,10.01801802,0.612612613,0.259311375,0.002598895
+"The accumulation of cadmium in wheat (Triticum aestivum)
+as influenced by zinc oxide nanoparticles and soil moisture
+conditions",69,2019,Zahra Saeed Khan,Pot,Zn,Soil,Wheat,30,ClassA,100,ClassD,grain yield/plant,Yield,4,7.72972973,0.630630631,4,11.72972973,0.522522523,0.417052723,0.002160137
+"The accumulation of cadmium in wheat (Triticum aestivum)
+as influenced by zinc oxide nanoparticles and soil moisture
+conditions",69,2019,Zahra Saeed Khan,Pot,Zn,Soil,Wheat,30,ClassA,25,ClassB,chl A,Photosynthetic Pigment,4,2.734848485,0.227272727,4,3.098484848,0.106060606,0.124837197,0.002019426
+"The accumulation of cadmium in wheat (Triticum aestivum)
+as influenced by zinc oxide nanoparticles and soil moisture
+conditions",69,2019,Zahra Saeed Khan,Pot,Zn,Soil,Wheat,30,ClassA,50,ClassC,chl A,Photosynthetic Pigment,4,2.734848485,0.227272727,4,3.386363636,0.189393939,0.213680636,0.002508503
+"The accumulation of cadmium in wheat (Triticum aestivum)
+as influenced by zinc oxide nanoparticles and soil moisture
+conditions",69,2019,Zahra Saeed Khan,Pot,Zn,Soil,Wheat,30,ClassA,100,ClassD,chl A,Photosynthetic Pigment,4,2.734848485,0.227272727,4,3.825757576,0.21969697,0.335680471,0.002550935
+"The accumulation of cadmium in wheat (Triticum aestivum)
+as influenced by zinc oxide nanoparticles and soil moisture
+conditions",69,2019,Zahra Saeed Khan,Pot,Zn,Soil,Wheat,30,ClassA,25,ClassB,chl B,Photosynthetic Pigment,4,1.592592593,0.178451178,4,1.831649832,0.175084175,0.139853858,0.00542312
+"The accumulation of cadmium in wheat (Triticum aestivum)
+as influenced by zinc oxide nanoparticles and soil moisture
+conditions",69,2019,Zahra Saeed Khan,Pot,Zn,Soil,Wheat,30,ClassA,50,ClassC,chl B,Photosynthetic Pigment,4,1.592592593,0.178451178,4,2.127946128,0.097643098,0.289794005,0.003665225
+"The accumulation of cadmium in wheat (Triticum aestivum)
+as influenced by zinc oxide nanoparticles and soil moisture
+conditions",69,2019,Zahra Saeed Khan,Pot,Zn,Soil,Wheat,30,ClassA,100,ClassD,chl B,Photosynthetic Pigment,4,1.592592593,0.178451178,4,2.296296296,0.121212121,0.365934269,0.00383543
+"Cerium oxide nanoparticles alleviates stress in wheat grown on Cd 
+contaminated alkaline soil",70,2023,Muhammad Ashar Ayub,Pot,Ce,Soil,Wheat,20,ClassA,200,ClassD,hundreds grams,Yield,3,2.743494424,0.594795539,3,3.107806691,0.910780669,0.124684788,0.044296211
+"Cerium oxide nanoparticles alleviates stress in wheat grown on Cd 
+contaminated alkaline soil",70,2023,Muhammad Ashar Ayub,Pot,Ce,Soil,Wheat,20,ClassA,400,ClassE,hundreds grams,Yield,3,2.743494424,0.594795539,3,3.24535316,0.918215613,0.167991731,0.042351311
+"Cerium oxide nanoparticles alleviates stress in wheat grown on Cd 
+contaminated alkaline soil",70,2023,Muhammad Ashar Ayub,Pot,Ce,Soil,Wheat,20,ClassA,600,ClassE,hundreds grams,Yield,3,2.743494424,0.594795539,3,3.394052045,0.635687732,0.212792056,0.02736082
+"Cerium oxide nanoparticles alleviates stress in wheat grown on Cd 
+contaminated alkaline soil",70,2023,Muhammad Ashar Ayub,Pot,Ce,Soil,Wheat,20,ClassA,1000,ClassF,hundreds grams,Yield,3,2.743494424,0.594795539,3,3.591078067,0.442379182,0.26922001,0.020726188
+"Cerium oxide nanoparticles alleviates stress in wheat grown on Cd 
+contaminated alkaline soil",70,2023,Muhammad Ashar Ayub,Pot,Ce,Soil,Wheat,20,ClassA,200,ClassD,grain yield/plant,Yield,3,6.15,1.025,3,7.6,1.2,0.211696165,0.017569509
+"Cerium oxide nanoparticles alleviates stress in wheat grown on Cd 
+contaminated alkaline soil",70,2023,Muhammad Ashar Ayub,Pot,Ce,Soil,Wheat,20,ClassA,400,ClassE,grain yield/plant,Yield,3,6.15,1.025,3,9.25,2.35,0.40817147,0.030773747
+"Cerium oxide nanoparticles alleviates stress in wheat grown on Cd 
+contaminated alkaline soil",70,2023,Muhammad Ashar Ayub,Pot,Ce,Soil,Wheat,20,ClassA,600,ClassE,grain yield/plant,Yield,3,6.15,1.025,3,9.475,2.525,0.432204669,0.032931702
+"Cerium oxide nanoparticles alleviates stress in wheat grown on Cd 
+contaminated alkaline soil",70,2023,Muhammad Ashar Ayub,Pot,Ce,Soil,Wheat,20,ClassA,1000,ClassF,grain yield/plant,Yield,3,6.15,1.025,3,9.325,0.725,0.416246884,0.011274176
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,plant height,Growth,5,69.73,24.3,5,71.04,21.3,0.018612457,0.042268376
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,plant height,Growth,5,69.73,24.3,5,75.36,20.65,0.077645989,0.039305819
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,plant height,Growth,5,99.39,23.8,5,105.08,28.8,0.05567046,0.026491915
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,plant height,Growth,5,99.39,23.8,5,104.86,27.05,0.053574622,0.024777268
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,plant height,Growth,5,93.11,26.5,5,96.1,25.85,0.031607726,0.030671717
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,plant height,Growth,5,93.11,26.5,5,90.24,25.85,-0.031308802,0.0326122
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,chlorophyll,Photosynthetic Pigment,5,35.654,1.97,5,42.694,5.295,0.180197053,0.003686882
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,chlorophyll,Photosynthetic Pigment,5,35.654,1.97,5,42.553,7.09,0.176889015,0.006162746
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,chlorophyll,Photosynthetic Pigment,5,43.531,0.915,5,44.659,1.11,0.025582527,0.000211918
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,chlorophyll,Photosynthetic Pigment,5,43.531,0.915,5,42.922,5.64,-0.014088813,0.003541616
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,chlorophyll,Photosynthetic Pigment,5,40.284,4.475,5,42.501,8.68,0.053573237,0.010810051
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,chlorophyll,Photosynthetic Pigment,5,40.284,4.475,5,43.1,9.885,0.067568629,0.012988349
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,chl A,Photosynthetic Pigment,5,26.617,0.72,5,26.638,0.805,0.000788658,0.000328994
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,chl A,Photosynthetic Pigment,5,26.617,0.72,5,26.647,0.87,0.001126465,0.000359537
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,chl A,Photosynthetic Pigment,5,26.743,0.335,5,27.217,1.34,0.017569021,0.000516179
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,chl A,Photosynthetic Pigment,5,26.743,0.335,5,26.356,1.65,-0.014576804,0.000815244
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,chl A,Photosynthetic Pigment,5,25.938,0.57,5,25.596,3.04,-0.013272986,0.002917778
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,chl A,Photosynthetic Pigment,5,25.938,0.57,5,25.617,3.12,-0.012452881,0.003063346
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,chl B,Photosynthetic Pigment,5,9.046,1.4,5,16.067,4.51,0.574444808,0.020548862
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,chl B,Photosynthetic Pigment,5,9.046,1.4,5,15.918,6.24,0.565127873,0.035524631
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,chl B,Photosynthetic Pigment,5,16.801,0.59,5,17.455,2.38,0.038187732,0.003964938
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,chl B,Photosynthetic Pigment,5,16.801,0.59,5,16.578,4.015,-0.013361893,0.011977688
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,chl B,Photosynthetic Pigment,5,14.357,5.015,5,16.917,5.655,0.164081405,0.046751577
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,chl B,Photosynthetic Pigment,5,14.357,5.015,5,17.495,6.77,0.197677498,0.054351871
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,hundreds grams,Yield,5,1.89,0.05,5,2.24,0.4,0.169899037,0.006517525
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,hundreds grams,Yield,5,1.89,0.05,5,2.1,0.05,0.105360516,0.000253352
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,hundreds grams,Yield,5,1.51,0.05,5,1.65,0.05,0.088665637,0.000402943
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,hundreds grams,Yield,5,1.51,0.05,5,1.74,0.05,0.141775462,0.000384436
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,60,ClassC,hundreds grams,Yield,5,0.83,0.05,5,1.05,0.1,0.235119742,0.002539854
+The impact of nano-ZnO foliar fertilizer on growth and yield of cultivated rice  varieties in Sri Lanka,71,2021,S. Somaratne,Pot,Zn,Foliar,Rice,31,ClassA,120,ClassD,hundreds grams,Yield,5,0.83,0.05,5,1.07,0.1,0.253988227,0.002472672
+"Effects of Silicon and Zinc Nanoparticles on Growth, Yield, and Biochemical Characteristics of Rice",72,2019,Norollah Kheyri,Field,Si,Foliar,Rice,30,ClassA,50,ClassC,grains yield,Yield,4,3.969,0.7938,4,4.389,0.8778,0.100587237,0.02
+"Effects of Silicon and Zinc Nanoparticles on Growth, Yield, and Biochemical Characteristics of Rice",72,2019,Norollah Kheyri,Field,Zn,Foliar,Rice,30,ClassA,50,ClassC,grains yield,Yield,4,3.887,0.7774,4,4.451,0.8902,0.135491138,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,P,Foliar,Rice,60,ClassB,1000,ClassF,thousands grams,Yield,4,26.33,5.266,4,24.33,4.866,-0.078998817,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,P,Foliar,Rice,60,ClassB,3000,ClassF,thousands grams,Yield,4,26.33,5.266,4,23,4.6,-0.135214758,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,P,Foliar,Rice,60,ClassB,5000,ClassF,thousands grams,Yield,4,26.33,5.266,4,23,4.6,-0.135214758,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,P,Foliar,Rice,60,ClassB,1000,ClassF,thousands grams,Yield,4,26,5.2,4,25,5,-0.039220713,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,P,Foliar,Rice,60,ClassB,3000,ClassF,thousands grams,Yield,4,26,5.2,4,23,4.6,-0.122602322,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,P,Foliar,Rice,60,ClassB,5000,ClassF,thousands grams,Yield,4,26,5.2,4,23,4.6,-0.122602322,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Zn,Foliar,Rice,30,ClassA,25,ClassB,thousands grams,Yield,4,26.33,5.266,4,22.67,4.534,-0.149666509,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Zn,Foliar,Rice,30,ClassA,50,ClassC,thousands grams,Yield,4,26.33,5.266,4,21.33,4.266,-0.210594441,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Zn,Foliar,Rice,30,ClassA,100,ClassD,thousands grams,Yield,4,26.33,5.266,4,24.33,4.866,-0.078998817,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Zn,Foliar,Rice,30,ClassA,25,ClassB,thousands grams,Yield,4,26,5.2,4,22.33,4.466,-0.152165472,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Zn,Foliar,Rice,30,ClassA,50,ClassC,thousands grams,Yield,4,26,5.2,4,22.33,4.466,-0.152165472,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Zn,Foliar,Rice,30,ClassA,100,ClassD,thousands grams,Yield,4,26,5.2,4,25,5,-0.039220713,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Si,Foliar,Rice,30,ClassA,50,ClassC,thousands grams,Yield,4,26.33,5.266,4,23.33,4.666,-0.120968887,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Si,Foliar,Rice,30,ClassA,100,ClassD,thousands grams,Yield,4,26.33,5.266,4,23.67,4.734,-0.10650055,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Si,Foliar,Rice,30,ClassA,200,ClassD,thousands grams,Yield,4,26.33,5.266,4,22.67,4.534,-0.149666509,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Si,Foliar,Rice,30,ClassA,50,ClassC,thousands grams,Yield,4,26,5.2,4,24,4.8,-0.080042708,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Si,Foliar,Rice,30,ClassA,100,ClassD,thousands grams,Yield,4,26,5.2,4,24.33,4.866,-0.066386381,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Si,Foliar,Rice,30,ClassA,200,ClassD,thousands grams,Yield,4,26,5.2,4,22,4.4,-0.167054085,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,P,Foliar,Rice,60,ClassB,1000,ClassF,grains yield,Yield,4,8.39,1.678,4,8.55,1.71,0.018890762,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,P,Foliar,Rice,60,ClassB,3000,ClassF,grains yield,Yield,4,8.39,1.678,4,8.99,1.798,0.069072328,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,P,Foliar,Rice,60,ClassB,5000,ClassF,grains yield,Yield,4,8.39,1.678,4,8.24,1.648,-0.018040177,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,P,Foliar,Rice,60,ClassB,1000,ClassF,grains yield,Yield,4,7.97,1.594,4,9.07,1.814,0.129287771,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,P,Foliar,Rice,60,ClassB,3000,ClassF,grains yield,Yield,4,7.97,1.594,4,9.46,1.892,0.17138789,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,P,Foliar,Rice,60,ClassB,5000,ClassF,grains yield,Yield,4,7.97,1.594,4,8.76,1.752,0.094511412,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Zn,Foliar,Rice,30,ClassA,25,ClassB,grains yield,Yield,4,8.39,1.678,4,8.72,1.744,0.038578717,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Zn,Foliar,Rice,30,ClassA,50,ClassC,grains yield,Yield,4,8.39,1.678,4,10.05,2.01,0.180532114,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Zn,Foliar,Rice,30,ClassA,100,ClassD,grains yield,Yield,4,8.39,1.678,4,7.93,1.586,-0.056387485,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Zn,Foliar,Rice,30,ClassA,25,ClassB,grains yield,Yield,4,7.97,1.594,4,8.56,1.712,0.071415697,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Zn,Foliar,Rice,30,ClassA,50,ClassC,grains yield,Yield,4,7.97,1.594,4,9.57,1.914,0.182948713,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Zn,Foliar,Rice,30,ClassA,100,ClassD,grains yield,Yield,4,7.97,1.594,4,8.18,1.636,0.026007658,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Si,Foliar,Rice,30,ClassA,50,ClassC,grains yield,Yield,4,8.39,1.678,4,8.53,1.706,0.016548841,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Si,Foliar,Rice,30,ClassA,100,ClassD,grains yield,Yield,4,8.39,1.678,4,8.73,1.746,0.039724849,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Si,Foliar,Rice,30,ClassA,200,ClassD,grains yield,Yield,4,8.39,1.678,4,8.83,1.766,0.051114494,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Si,Foliar,Rice,30,ClassA,50,ClassC,grains yield,Yield,4,7.97,1.594,4,8.37,1.674,0.048969392,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Si,Foliar,Rice,30,ClassA,100,ClassD,grains yield,Yield,4,7.97,1.594,4,8.43,1.686,0.056112279,0.02
+"Effect of Foliar Application of Phosphorus, Zinc, and Silicon Nanoparticles along with Mineral NPK Fertilization on Yield and Chemical Compositions of Rice (Oryza sativa L.)",73,2023,Nehal M. Elekhtyar ,Field,Si,Foliar,Rice,30,ClassA,200,ClassD,grains yield,Yield,4,7.97,1.594,4,9.18,1.836,0.141342712,0.02
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,25,ClassB,plant height,Growth,3,133,19.95,3,132.3,19.845,-0.005277057,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,50,ClassC,plant height,Growth,3,133,19.95,3,151,22.65,0.126930709,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,75,ClassC,plant height,Growth,3,133,19.95,3,156,23.4,0.159506879,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,100,ClassD,plant height,Growth,3,133,19.95,3,168.3,25.245,0.235398973,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,25,ClassB,plant height,Growth,3,127.4,19.11,3,129.6,19.44,0.017121041,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,50,ClassC,plant height,Growth,3,127.4,19.11,3,143.8,21.57,0.121091702,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,75,ClassC,plant height,Growth,3,127.4,19.11,3,150.9,22.635,0.169285623,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,100,ClassD,plant height,Growth,3,127.4,19.11,3,165.8,24.87,0.2634505,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,25,ClassB,plant height,Growth,3,190.8,28.62,3,196.8,29.52,0.030962226,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,50,ClassC,plant height,Growth,3,190.8,28.62,3,217.7,32.655,0.131892209,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,75,ClassC,plant height,Growth,3,190.8,28.62,3,219.7,32.955,0.14103722,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,100,ClassD,plant height,Growth,3,190.8,28.62,3,220.7,33.105,0.145578554,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,25,ClassB,plant height,Growth,3,182.9,27.435,3,188.3,28.245,0.02909688,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,50,ClassC,plant height,Growth,3,182.9,27.435,3,208.8,31.32,0.132437301,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,75,ClassC,plant height,Growth,3,182.9,27.435,3,210.7,31.605,0.141495765,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,100,ClassD,plant height,Growth,3,182.9,27.435,3,213.6,32.04,0.155165552,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,25,ClassB,plant fresh weight,Biomass,3,309.3,46.395,3,316.8,47.52,0.02395898,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,50,ClassC,plant fresh weight,Biomass,3,309.3,46.395,3,464.5,69.675,0.406649879,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,75,ClassC,plant fresh weight,Biomass,3,309.3,46.395,3,418.4,62.76,0.302126233,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,100,ClassD,plant fresh weight,Biomass,3,309.3,46.395,3,388.5,58.275,0.22798149,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,25,ClassB,plant fresh weight,Biomass,3,668.3,100.245,3,717,107.55,0.070338666,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,50,ClassC,plant fresh weight,Biomass,3,668.3,100.245,3,895,134.25,0.292086544,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,75,ClassC,plant fresh weight,Biomass,3,668.3,100.245,3,1026.8,154.02,0.429465274,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,100,ClassD,plant fresh weight,Biomass,3,668.3,100.245,3,1071.8,150.08,0.472357583,0.014035772
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,25,ClassB,plant fresh weight,Biomass,3,269.9,40.485,3,310.5,46.575,0.140132381,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,50,ClassC,plant fresh weight,Biomass,3,269.9,40.485,3,412,61.8,0.422971829,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,75,ClassC,plant fresh weight,Biomass,3,269.9,40.485,3,399.2,59.88,0.391411024,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,100,ClassD,plant fresh weight,Biomass,3,269.9,40.485,3,370.3,55.545,0.316261968,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,25,ClassB,plant fresh weight,Biomass,3,646,96.9,3,687.8,103.17,0.062698594,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,50,ClassC,plant fresh weight,Biomass,3,646,96.9,3,855.8,128.37,0.2812372,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,75,ClassC,plant fresh weight,Biomass,3,646,96.9,3,975.1,146.265,0.411740526,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,100,ClassD,plant fresh weight,Biomass,3,646,96.9,3,1026.7,154.005,0.463305551,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,25,ClassB,shoot fresh weight,Biomass,3,243.8,36.57,3,245.6,36.84,0.007355979,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,50,ClassC,shoot fresh weight,Biomass,3,243.8,36.57,3,383.3,57.495,0.452469755,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,75,ClassC,shoot fresh weight,Biomass,3,243.8,36.57,3,343.1,51.465,0.341673733,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,100,ClassD,shoot fresh weight,Biomass,3,243.8,36.57,3,317,47.55,0.262553557,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,25,ClassB,shoot fresh weight,Biomass,3,540,81,3,586.7,88.005,0.082944476,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,50,ClassC,shoot fresh weight,Biomass,3,540,81,3,760,114,0.341749294,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,75,ClassC,shoot fresh weight,Biomass,3,540,81,3,888.3,133.245,0.497740384,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,100,ClassD,shoot fresh weight,Biomass,3,540,81,3,930,139.5,0.543615447,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,25,ClassB,shoot fresh weight,Biomass,3,234.5,35.175,3,242.2,36.33,0.032308243,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,50,ClassC,shoot fresh weight,Biomass,3,234.5,35.175,3,334.1,50.115,0.353984761,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,75,ClassC,shoot fresh weight,Biomass,3,234.5,35.175,3,326,48.9,0.329441793,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,100,ClassD,shoot fresh weight,Biomass,3,234.5,35.175,3,302.5,45.375,0.25462569,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,25,ClassB,shoot fresh weight,Biomass,3,519.8,77.97,3,556,83.4,0.067324172,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,50,ClassC,shoot fresh weight,Biomass,3,519.8,77.97,3,727.3,109.095,0.335894925,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,75,ClassC,shoot fresh weight,Biomass,3,519.8,77.97,3,843.9,126.585,0.484589882,0.015
+Effect of foliar application of phosphorus nanoparticles on the performance and sustainable agriculture of sweet corn,74,2023,Dina M. Salama,Field,P,Foliar,Maize,100,ClassC,100,ClassD,shoot fresh weight,Biomass,3,519.8,77.97,3,890.8,133.62,0.538675813,0.015
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,chlorophyll,Photosynthetic Pigment,4,35.76,7.152,4,37.83,7.566,0.056272488,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,chlorophyll,Photosynthetic Pigment,4,35.76,7.152,4,38.36,7.672,0.0701853,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,chlorophyll,Photosynthetic Pigment,4,35.76,7.152,4,39.06,7.812,0.088268975,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,chlorophyll,Photosynthetic Pigment,4,37.4,7.48,4,38.7,7.74,0.034168896,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,chlorophyll,Photosynthetic Pigment,4,37.4,7.48,4,39.36,7.872,0.051079368,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,chlorophyll,Photosynthetic Pigment,4,37.4,7.48,4,39.52,7.904,0.055136168,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,chlorophyll,Photosynthetic Pigment,4,37.66,7.532,4,38.16,7.632,0.013189323,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,chlorophyll,Photosynthetic Pigment,4,37.66,7.532,4,39.83,7.966,0.056021874,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,chlorophyll,Photosynthetic Pigment,4,37.66,7.532,4,39.66,7.932,0.0517446,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,chlorophyll,Photosynthetic Pigment,4,38.33,7.666,4,39.5,7.9,0.030067793,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,chlorophyll,Photosynthetic Pigment,4,38.33,7.666,4,40.81,8.162,0.06269427,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,chlorophyll,Photosynthetic Pigment,4,38.33,7.666,4,40.9,8.18,0.064897184,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,plant height,Growth,4,86.7,17.34,4,90.2,18.04,0.039575543,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,plant height,Growth,4,86.7,17.34,4,91.5,18.3,0.053885088,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,plant height,Growth,4,86.7,17.34,4,92.4,18.48,0.063673095,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,plant height,Growth,4,88.1,17.62,4,90,18,0.021337137,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,plant height,Growth,4,88.1,17.62,4,91.1,18.22,0.033485271,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,plant height,Growth,4,88.1,17.62,4,92.8,18.56,0.051974107,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,plant height,Growth,4,89.9,17.98,4,91.4,18.28,0.016547537,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,plant height,Growth,4,89.9,17.98,4,92.3,18.46,0.0263462,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,plant height,Growth,4,89.9,17.98,4,93,18.6,0.033901552,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,plant height,Growth,4,90.3,18.06,4,92,18.4,0.018651117,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,plant height,Growth,4,90.3,18.06,4,94.2,18.84,0.042282721,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,plant height,Growth,4,90.3,18.06,4,93.8,18.76,0.038027396,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,thousands grams,Yield,4,25.5,5.1,4,26.15,5.23,0.025170738,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,thousands grams,Yield,4,25.5,5.1,4,26.66,5.332,0.044485863,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,thousands grams,Yield,4,25.5,5.1,4,26.94,5.388,0.054933719,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,thousands grams,Yield,4,25.61,5.122,4,26.33,5.266,0.027726073,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,thousands grams,Yield,4,25.61,5.122,4,26.74,5.348,0.043177671,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,thousands grams,Yield,4,25.61,5.122,4,27.02,5.404,0.053594432,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,thousands grams,Yield,4,25.89,5.178,4,26.21,5.242,0.012284224,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,thousands grams,Yield,4,25.89,5.178,4,27.45,5.49,0.058509374,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,thousands grams,Yield,4,25.89,5.178,4,27.42,5.484,0.05741588,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,thousands grams,Yield,4,25.97,5.194,4,26.61,5.322,0.024345059,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,thousands grams,Yield,4,25.97,5.194,4,27.28,5.456,0.049211807,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,thousands grams,Yield,4,25.97,5.194,4,27.6,5.52,0.060873747,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,grains yield,Yield,4,8.31,1.662,4,9.22,1.844,0.103915429,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,grains yield,Yield,4,8.31,1.662,4,9.59,1.918,0.14326128,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,grains yield,Yield,4,8.31,1.662,4,9.98,1.996,0.183123481,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,grains yield,Yield,4,8.24,1.648,4,9.37,1.874,0.128512752,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,grains yield,Yield,4,8.24,1.648,4,9.78,1.956,0.17133914,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,grains yield,Yield,4,8.24,1.648,4,10.05,2.01,0.198572291,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,grains yield,Yield,4,8.83,1.766,4,9.44,1.888,0.066800966,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,grains yield,Yield,4,8.83,1.766,4,10.23,2.046,0.147169565,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,grains yield,Yield,4,8.83,1.766,4,10.37,2.074,0.160762008,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,20,ClassB,grains yield,Yield,4,9.15,1.83,4,9.67,1.934,0.05527443,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,40,ClassB,grains yield,Yield,4,9.15,1.83,4,10.4,2.08,0.128051927,0.02
+Green Synthesis of Zinc Oxide Nanoparticles: Fortification for Rice Grain Yield and Nutrients Uptake Enhancement,75,2021,Omnia M. Elshayb,Field,Zn,Foliar,Rice,31.4,ClassB,60,ClassC,grains yield,Yield,4,9.15,1.83,4,10.43,2.086,0.13093239,0.02
+The application of nanoparticles on the yield and nutritional quality of rice under different irrigation regimes,76,2023,Mehrnaz Zarei,Field,Zn,Foliar,Rice,40,ClassB,50,ClassC,grains yield,Yield,4,5.39,1.078,4,5.747,1.1494,0.064132595,0.02
+The application of nanoparticles on the yield and nutritional quality of rice under different irrigation regimes,76,2023,Mehrnaz Zarei,Field,Si,Foliar,Rice,30,ClassA,50,ClassC,grains yield,Yield,4,5.39,1.078,4,5.586,1.1172,0.035718083,0.02
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,50,ClassC,grains yield,Yield,3,5.78125,0.78125,3,9.375,1.25,0.48342665,0.012013094
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,100,ClassD,grains yield,Yield,3,5.78125,0.78125,3,15.46875,1.40625,0.984201937,0.008841989
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,150,ClassD,grains yield,Yield,3,5.78125,0.78125,3,17.65625,1.09375,1.116469906,0.007366308
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,50,ClassC,thousands grams,Yield,3,5.3125,0.46875,3,8.75,0.625,0.498991166,0.004295836
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,100,ClassD,thousands grams,Yield,3,5.3125,0.46875,3,12.8125,1.25,0.880358723,0.00576787
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,150,ClassD,thousands grams,Yield,3,5.3125,0.46875,3,15.9375,0.625,1.098612289,0.003107779
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,50,ClassC,chl A,Photosynthetic Pigment,3,13.95348837,1.046511628,3,21.97674419,1.744186047,0.454255273,0.003974605
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,100,ClassD,chl A,Photosynthetic Pigment,3,13.95348837,1.046511628,3,24.76744186,1.395348837,0.573800423,0.002932991
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,150,ClassD,chl A,Photosynthetic Pigment,3,13.95348837,1.046511628,3,28.60465116,1.046511628,0.717839793,0.002321163
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,50,ClassC,chl B,Photosynthetic Pigment,3,13.95348837,1.046511628,3,18.13953488,0.697674419,0.262364264,0.002368097
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,100,ClassD,chl B,Photosynthetic Pigment,3,13.95348837,1.046511628,3,25.81395349,0.697674419,0.615185639,0.002118487
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,150,ClassD,chl B,Photosynthetic Pigment,3,13.95348837,1.046511628,3,25.11627907,1.744186047,0.587786665,0.00348251
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,50,ClassC,shoot length,Growth,3,83.01511281,3.880197247,3,90.77550731,2.771569462,0.089366833,0.001038973
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,100,ClassD,shoot length,Growth,3,83.01511281,3.880197247,3,102.416099,4.988825032,0.210021244,0.001519167
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,150,ClassD,shoot length,Growth,3,83.01511281,3.880197247,3,80.79785724,2.21725557,-0.027072227,0.000979257
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,50,ClassC,shoot fresh weight,Biomass,3,36.41025641,5.128205128,3,48.20512821,6.666666667,0.280614905,0.012987878
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,100,ClassD,shoot fresh weight,Biomass,3,36.41025641,5.128205128,3,69.23076923,5.128205128,0.642594901,0.008441434
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,150,ClassD,shoot fresh weight,Biomass,3,36.41025641,5.128205128,3,96.92307692,10.25641026,0.979067138,0.010345076
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,50,ClassC,root length,Growth,3,8.075117371,0.845070423,3,11.17370892,0.563380282,0.324776197,0.00449802
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,100,ClassD,root length,Growth,3,8.075117371,0.845070423,3,14.55399061,0.938967136,0.589077821,0.005038066
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,150,ClassD,root length,Growth,3,8.075117371,0.845070423,3,9.953051643,0.751173709,0.209091798,0.005549281
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,50,ClassC,root fresh weight,Biomass,3,22.63414634,3.512195122,3,44.48780488,4.682926829,0.675755438,0.011719603
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,100,ClassD,root fresh weight,Biomass,3,22.63414634,3.512195122,3,60.48780488,4.292682927,0.982982106,0.009704966
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,150,ClassD,root fresh weight,Biomass,3,22.63414634,3.512195122,3,71.41463415,7.804878049,1.149043142,0.012007566
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,50,ClassC,shoot dry weight,Biomass,3,29.83149026,4.38827453,3,42.17351237,4.38827453,0.346227799,0.010822007
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,100,ClassD,shoot dry weight,Biomass,3,29.83149026,4.38827453,3,61.37221345,3.839740214,0.721392627,0.008517793
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,150,ClassD,shoot dry weight,Biomass,3,29.83149026,4.38827453,3,87.70186063,5.759610321,1.078378559,0.008650639
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,50,ClassC,root dry weight,Biomass,3,19.67914439,3.20855615,3,40.42780749,5.561497326,0.719958438,0.015169206
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,100,ClassD,root dry weight,Biomass,3,19.67914439,3.20855615,3,54.54545455,4.705882353,1.019474968,0.011342156
+"Rice seeds biofortification using 
+biogenic  iron oxide nanoparticles 
+synthesized by using Glycyrrhiza 
+glabra: a study on growth and yield 
+improvement",77,2024,SidraAhmad1,Pot,Fe,Seed,Rice,17,ClassA,150,ClassD,root dry weight,Biomass,3,19.67914439,3.20855615,3,66.52406417,5.77540107,1.218004335,0.01137344

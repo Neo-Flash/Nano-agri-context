@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite as below."
+title: "Code and data for: Context-Dependency of Nanotechnology in Sustainable Agriculture"
+type: software
+authors:
+  - family-names: Hong
+    given-names: Jianping
+  - name: The Authors
+license: MIT
+version: 1.0.0
+date-released: 2026-06-28
+url: "https://github.com/YOUR_USERNAME/nano-agriculture-meta"
+doi: "TO_BE_ASSIGNED_BY_ZENODO"
+preferred-citation:
+  type: article
+  title: "The Context-Dependency of Nanotechnology in Sustainable Agriculture"
+  authors:
+    - family-names: Hong
+      given-names: Jianping
+  year: 2026
